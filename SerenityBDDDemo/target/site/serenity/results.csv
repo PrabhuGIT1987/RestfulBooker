@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"DD test","TC0001: Create Student with data parameter","SUCCESS","2024-06-13T09:09:16.495+05:30[Asia/Calcutta]","0.0","11.91"
+"DD test","TC002: Verify the Created Student","SUCCESS","2024-06-13T09:09:16.502+05:30[Asia/Calcutta]","0.0","3.88"
+"DD test","TC003: Update Student TC","SUCCESS","2024-06-13T09:09:16.504+05:30[Asia/Calcutta]","0.0","0.31"
+"DD test","TC004: Delete created Student TC","SUCCESS","2024-06-13T09:09:16.506+05:30[Asia/Calcutta]","0.0","0.19"
+"First serenity test","Get specific student fail case","IGNORED","2024-06-13T09:09:22.711+05:30[Asia/Calcutta]","0.0","0.03"
+"First serenity test","Get all students","IGNORED","2024-06-13T09:09:22.746+05:30[Asia/Calcutta]","0.0","0.01"
+"First serenity test","Get specific student","IGNORED","2024-06-13T09:09:22.767+05:30[Asia/Calcutta]","0.0","0.01"

@@ -1,0 +1,9 @@
+com\studentapp\module\StudentsNew.class
+com\studentapp\test\serenity\StudentSerinitySteps.class
+com\utils\ReusableSpecification.class
+com\StudentInfo\StudentCRUDTest.class
+com\BasicTestCases\DDTest.class
+com\BasicTestCases\FirstSerenityTest.class
+com\utils\TestUtils.class
+com\BaseTest\TestBase.class
+com\BasicTestCases\HamcrestMatchersValidationTest.class

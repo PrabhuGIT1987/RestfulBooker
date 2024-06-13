@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First serenity test","Get specific student fail case","IGNORED","2024-06-13T09:09:22.711+05:30[Asia/Calcutta]","0.0","0.03"
+"First serenity test","Get all students","IGNORED","2024-06-13T09:09:22.746+05:30[Asia/Calcutta]","0.0","0.01"
+"First serenity test","Get specific student","IGNORED","2024-06-13T09:09:22.767+05:30[Asia/Calcutta]","0.0","0.01"
