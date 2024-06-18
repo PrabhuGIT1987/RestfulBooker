@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="restfullbookerTestCases.GetBooking">
+      <class name="restfullbookerTestCases.DeleteBooking">
         <methods>
-          <include name="getBookingDetails"/>
+          <include name="performDelete"/>
         </methods>
-      </class> <!-- restfullbookerTestCases.GetBooking -->
+      </class> <!-- restfullbookerTestCases.DeleteBooking -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

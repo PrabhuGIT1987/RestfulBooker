@@ -21,7 +21,7 @@ public class GetBooking {
 		
 		reqSpec
 			.baseUri("https://restful-booker.herokuapp.com")
-			.basePath("/booking/{id}").pathParam("id", 255);
+			.basePath("/booking/{id}").pathParam("id", 3246);
 		
 		Response response=reqSpec.get();
 		
@@ -37,7 +37,7 @@ public class GetBooking {
 				.log().all()
 				.baseUri("https://restful-booker.herokuapp.com")
 				.basePath("/booking/{id}")
-				.pathParam("id", 255)
+				.pathParam("id", 6)
 			.when()
 				.get()
 			.then()
