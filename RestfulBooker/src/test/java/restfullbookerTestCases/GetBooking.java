@@ -47,7 +47,7 @@ public class GetBooking {
 				.path("firstname");
 				
 		
-	System.out.println("--------------------------------");
+	System.out.println("------------------------------");
 		System.out.println("Result--"+result);
 	}
 	
